@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-07T14:58:10 IST" name="Suite" finished-at="2023-08-07T14:58:30 IST" duration-ms="19942">
+    <groups>
+    </groups>
+    <test started-at="2023-08-07T14:58:10 IST" name="Test" finished-at="2023-08-07T14:58:30 IST" duration-ms="19942">
+      <class name="product_Vtiger.Product_Create_Delete_Propertyfile">
+        <test-method signature="propertyProduct()[pri:0, instance:product_Vtiger.Product_Create_Delete_Propertyfile@55141def]" started-at="2023-08-07T14:58:23 IST" name="propertyProduct" finished-at="2023-08-07T14:58:30 IST" duration-ms="6976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyProduct -->
+      </class> <!-- product_Vtiger.Product_Create_Delete_Propertyfile -->
+      <class name="product_Vtiger.Product_Create_Delete">
+        <test-method signature="create()[pri:0, instance:product_Vtiger.Product_Create_Delete@7cc0cdad]" started-at="2023-08-07T14:58:10 IST" name="create" finished-at="2023-08-07T14:58:23 IST" duration-ms="12924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- product_Vtiger.Product_Create_Delete -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
